@@ -1,5 +1,8 @@
 # Innovating for Impact: Designing Solutions to Economic and Social Challenges
 
+## Group
+Group 9b
+
 ## Topic
 An application of one or more innovation methods to an economic / social challenge that may be in the current media
 
@@ -21,10 +24,10 @@ Here is a preview of the poster:
 
 ![Innovating for Impact: Designing Solutions to Economic and Social Challenges](./images/preview.png)
 
-The final poster is available as a PDF in this repository. To view the poster, please click on the following link: [Innovating for Impact: Designing Solutions to Economic and Social Challenges - Poster PDF](./Poster.pdf).
+The final poster is available as a PDF in this repository. [Poster PDF](./Poster.pdf).
 
 ## LaTeX Source Code
-The LaTeX source code for generating the poster is available in this repository. To view the code, please click on the following link: [Poster LaTeX Source Code](./Poster.tex).
+The LaTeX source code for generating the poster is available in this repository. [LaTeX Source Code](./Poster.tex).
 
 ## References
 The poster images and graphics are referenced in the [References.md](./References.md) file.
